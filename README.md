@@ -2,7 +2,7 @@
 
 ![Let's Build: With Ruby on Rails - Blog with Comments](https://i.imgur.com/DkZSTee.jpg)
 
-Read the full blog post and watch the screencast at [Web-Crunch.com](https://web-crunch.com)
+Read the full blog post and watch the screencast at [Web-Crunch.com](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments)
 
 Building a blog with comments using Ruby on Rails is a foundational exercise I went through to learn more about the framework. Working together, both Ruby and Rails lend us a hand to generate a fairly simple MVC pattern built on top of a CRUD approach when working with dynamic data. 
 
@@ -95,4 +95,4 @@ Ultimately, the point of this tutorial and video is to help anyone new to the fr
   </div>
   ```
 
- Continue reading at [Web-Crunch.com](http://web-crunch.com/)
+ Continue reading at [Web-Crunch.com](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments)
